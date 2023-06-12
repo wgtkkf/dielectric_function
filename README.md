@@ -1,2 +1,2 @@
 # dielectric_function
-Dielectric functions for various material
+Dielectric functions for various materials
